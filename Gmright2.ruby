@@ -631,4 +631,6 @@ Allow-user to start writing [a.b=cB/b.a=blog] this is in powershell in gmright2 
 Allow this application to run in pro command
 /=============|.           /==========/\
 |=============| Index.doc |==========/\%
-|=============|.          |=========/\% slideshow markdown box open the attachment.of this "master.applications and the other Max
+|=============|.          |=========/\% slideshow markdown box open the attachment.of this "master.applications and the other Max 
+Run / pro = sort liga touch screen enable rolling radio core [default] box install pro command ruby open run (welcome) push and install created application #=pages run pages=# install links "true" process allow projects to start this pro command in all the workflow automatic start by pushing and share > https://github.com/Gmright2-coll/GMRIGHT2-coll/projects/1#card-63382019
+Running / {ruby.welcom} index/run/ruby/source/ log in snipper = https://github.com/Gmright2-coll/GMRIGHT2-coll/projects/1#card-63382138 gmright2 start snipper process ro org all the documents in one bot setting composed "true" check all the setting in rock.id set run all the pad links in v.12 sort matching share application command files clone this files automatic be able to read the speed combination
