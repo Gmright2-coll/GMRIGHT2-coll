@@ -4,7 +4,7 @@
   hint: of your new repositories, which will suppress this warning, call:
   hint: 
   hint: 	git config --global init.defaultBranch <name> gmright2
-  hint: 
+  hint:         https://github.com/gmright-service-gmright/gmright2.github.io-/releases/tag/V8.1.1.2
   hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
   hint: 'development'. The just-created branch can be renamed via this command:
   hint: 
