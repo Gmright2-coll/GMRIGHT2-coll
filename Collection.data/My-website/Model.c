@@ -12,9 +12,22 @@ gmright2 : wrote engineer operater "%v6" add version (" v6 = } ,  5.7.8  ")
 gmright2 : wrote engineer operater "%v6" add version (" v6 = } ,  g.4.12.9 ")
 gmright2 : wrote engineer operater "%v6" add version (" v6 = } ,   5.8  ")
 
-
- 
-
+V6 commamx "c.gmright2" add "%c - values" in command v6-card check cardinals port
+V6 version "c "=" gmright2" > combination run released application automatic when user downloaded repository
+V6 push formation %gmright2 push files upfront c++ add source v6 form composition c/pro create c/pro light user log.light
+V6 : call /#12
+V6 : call /#44
+V6 : call /#88
+V6 : call /#11
+V6 : call /#77
+V6 : call /#88
+V6 : call /#1
+V6 : call /14
+V6 : call /18
+V6 : call /99
+V6 : call /13
+C/add call allow transition call open echo block wind nail
+C/add gmright2 log formation blue add sort ops set gmright2 corresponding in correction
 
 
 
