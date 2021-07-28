@@ -4,10 +4,11 @@
   hint: of your new repositories, which will suppress this warning, call:
   hint: 
   hint: 	git config --global init.defaultBranch <name> gmright2
-  hint: 
+  hint:         https://github.com/gmright-service-gmright/gmright2.github.io-/releases/tag/V8.1.1.2
   hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
   hint: 'development'. The just-created branch can be renamed via this command:
   hint: 
   hint: 	git branch -m <name> gmright2
   Initialized empty Git repository in /home/runner/work/GMRIGHT2-coll/GMRIGHT2-coll/.git/
   /usr/bin/git remote add origin https://github.com/Gmright2-coll/GMRIGHT2-coll
+https://1drv.ms/w/s!Avz_j3DBQtr9bOo7J5pK2IZQohA

@@ -27,3 +27,5 @@ Also the the business tools and school tools are both can be found in gmright2.g
 | Netbook |
 | Pro |
 | Automatic projects |
+https://drive.google.com/file/d/11Y7QQ4PBoXSHChM6qWbVYL7OhiliORV3/view
+Check this link on top for more information about our organization 
