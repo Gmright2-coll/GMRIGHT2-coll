@@ -1603,7 +1603,9 @@ Executor:”something_dead_come_to_live” security check block executive=channe
 2020-10-02T21:31:55.7678796Z ##[section]Finishing: Finalize Job
 2020-10-02T21:31:55.7723413Z ##[section]Finishing: Job
 
-
+Gmright2 = v6 push v6 command analysts application in 1=1 if user wrote : "c" open powershell "(Enabled)" <true> srt 
+Gmright2 = v6 push loops in one set command and to push a command first call api address debugging process deby check all the configuration available (true) run released (Enabled-all) now run text for both branch administration/user.log
+Gmright2 = v6 power up gmright2 mobile run mobile in any your core.extraso
 
 
 
