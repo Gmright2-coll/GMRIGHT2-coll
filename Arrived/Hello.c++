@@ -4,7 +4,7 @@ gmright!	Help
 5.8.9
  Gone
 
-This link is not authorized by Yahoo.
+This link is authorized by Yahoo.
 If you would like to continue to this link's intended destination at your own risk, click here.
 
 Copyright © 2018 gmright Inc. All rights reserved. Privacy Policy - Terms of Service
